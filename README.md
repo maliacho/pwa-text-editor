@@ -32,4 +32,11 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
+## Installation
+You will need to install the express, concurrently and nodemon npm packages. 
+
+
+## Technologies Used
+VS Code, NPM packages, GitHub
+
 
